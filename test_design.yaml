@@ -1,0 +1,7 @@
+yaml:
+names:
+-  damaged
+-  intact
+nc: 2
+train:  ../dest_output/train.txt
+val:  ../dest_output/test.txt

@@ -1,0 +1,6 @@
+yaml:
+nc: 2
+names: [ 'damaged', 'intact']
+train:  C:\Users\kuosh\Documents\AWS_Sagemaker\Kaggle_Detection of Product Defects using Yolo\Kaggle-product-imageDefects-dataset\dest_output\train.txt
+val:  C:\Users\kuosh\Documents\AWS_Sagemaker\Kaggle_Detection of Product Defects using Yolo\Kaggle-product-imageDefects-dataset\dest_output\val.txt
+
